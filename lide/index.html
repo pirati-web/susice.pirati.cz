@@ -1,0 +1,17 @@
+---
+layout: default
+---
+{% include submenu.html %}
+<div class="row o-section-block o-section-block--divided">
+    <div class="medium-12 large-12 columns">
+        <section class="o-section">
+            <div class="o-section-inner">
+                <main class="o-section-block">
+                    {% assign team = site.people | sort:"ordrp" %}
+                    {% include people/list-2col.html param=team %}
+                </main>
+            </div>
+        </section>
+        <!-- /. o-section -->
+    </div>
+</div>

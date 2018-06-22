@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="medium-7 small-12 columns" style="padding-left:0px">
+    <a href="https://docs.google.com/forms/d/11BrCMuEaYOxRCAtMYQ8cUsEtJwn9cruVLtDRSKl2A-c/viewform?edit_requested=true" target="_blank">
+      <img src="{{"/assets/img/pripoj-se/dotaznik.png" }}" style="margin-top:10px;width:100%" alt="Pirátský dotazník"/>
+    </a>
+    <a style="width:100%" target="_blank" class="button alert expand radius large" href="https://docs.google.com/forms/d/11BrCMuEaYOxRCAtMYQ8cUsEtJwn9cruVLtDRSKl2A-c/viewform?edit_requested=true">Vyplň Pirotazník ještě dnes!</a>
+  </div>
+  <div class="medium-5 small-12 columns">
+    <div class="testimonial-wrap">
+
+    	<div class="row">
+    		<div class="large-12 columns text-center testimonial-header">
+    			<h4>Co na to zkušení Piráti?</h4>
+    		</div>
+    	</div>
+
+  		<div class="testimonial">
+        <img src="{{"/assets/img/pripoj-se/ivan-bartos.jpg" }}" alt="Ivan Bartoš"/>
+  			<blockquote>
+  				Záleží ti na budoucnosti naší země? Přidat se je jednodušší než poslat e-mail.
+          <cite>Ivan Bartoš, předseda Pirátů</cite>
+  			</blockquote>
+      </div>
+        <div>
+{% capture info %}
+
+### Další užitečné informace
+
+* [Příručka Piráta][prirucka] – základní informace pro dobrovolníky
+* [Pirátská netiketa][netiketa] – základní zásady pro dobrou atmosféru
+
+[prirucka]: https://redmine.pirati.cz/projects/po/wiki
+[netiketa]: https://redmine.pirati.cz/projects/po/wiki/Pir%C3%A1tsk%C3%A1_netiketa
+
+{% endcapture %}
+
+{{ info | markdownify }}
+        </div>
+
+
+  	</div>
+  </div>
+</div>
