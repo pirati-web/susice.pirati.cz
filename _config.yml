@@ -1,5 +1,5 @@
 title: Pirátská strana Sušice
-email: to@pirati.cz
+email: pirati@susice.org
 description: Prosazujeme fungující moderní politiku založenou na využití technologií 21. století pro otevřenou demokratickou společnost.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://susice.pirati.cz" # the base hostname & protocol for your site
@@ -55,20 +55,20 @@ fb: https://www.facebook.com/PiratiSusice/
 
 title-page:
   big:
-    foto: /assets/img/miscellaneous/featured-penta.gif
-    alt: Nechceme, aby Metro D skončilo jako tunel
-    url: https://praha.pirati.cz/metro-d-v-kratkem-case-motorky-a-sitove-prvky.html
+    foto:
+    alt:
+    url:
   left-top:
     text: Kdo jsme?
-    url: https://praha.pirati.cz/lide/
+    url: https://susice.pirati.cz/lide/
     icon: fa fa-users
   right-top:
     text: Piráti ve sněmovně
     url: https://www.pirati.cz/snemovna/
     icon: fa fa-newspaper-o u-rotate-345
   left-bottom:
-    text: Městské části
-    url: mestske-casti
+    text:
+    url:
     icon: fa map-signs
   right-bottom:
     text: Připoj se

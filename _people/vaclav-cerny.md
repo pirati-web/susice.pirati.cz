@@ -1,26 +1,22 @@
 ---
 uid: vaclav.cerny
-name:     Václav Černý      # běžně používáné jméno
-fullname: Václav Černý # jméno s tituly etc.
-category:                  # kategorie: rp, praha, vary, hradec, jmk, senat
+name: Václav Černý      # běžně používáné jméno
+fullname: Václav Černý      # jméno s tituly etc.
+category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga
-img: people/pave-hais.jpg # 165 x 220
-description: Lídr do voleb do Poslanecké sněmovny v roce 2017, předseda Pirátů
+img: people/ppp.jpg # 165 x 220
+description: síťový specialista a správce sítí
 mail:
-- ivan.bartos@pirati.cz
-mob:			   +420 603 415 378
+- 
+mob: +420 737 812 234
 profiles:
   github:
-  facebook:    https://www.facebook.com/ivan.bartos.37
-  twitter:		 https://twitter.com/IvanCzechPir8
-  flickr:      https://www.flickr.com/search/?user_id=68741528%40N03&view_all=1&text=ivan%20barto%C5%A1
+  facebook:
+  twitter:
+  flickr:
 ordrp: 3
 ordga: 3
 ---
 
-Ivan Bartoš (* 20. března 1980) je lídr Pirátů do voleb do Polanecké sněmovny v roce 2017 a člen Pirátské strany od jejího vzniku. Pochází z Jablonce nad Nisou. Od roku 1999 žije v Praze. Maturoval ve Spojených státech amerických a následně i na gymnáziu U Balvanu v Jablonci nad Nisou. Vystudoval Ústav informačních studií a knihovnictví na Filozofické fakultě Univerzity Karlovy v Praze. V roce 2005 získal titul PhDr. v oboru informační věda a dále pokračoval ve studiích jako interní doktorand se specializací na databázové modely, databázové systémy a informační služby internetu. Aktivně spolupracoval s knihovnami, zejména s Národní knihovnou a Státní technickou knihovnou v Praze, na projektech standardizace ve vyhledávání a sdílení informací. Paralelně se angažoval v neziskovém sektoru. Před ukončením studia působil po dobu jednoho semestru na Computer Science Faculty na University of New Orleans.
-
-Angažuje se v aktivitách souvisejících s DIY kulturou. Jako DJ mixuje psychedelic trance, hraje na akordeon a zpívá v kapele Nohama napřed. Je vášnivý čtenář a filmový fanda s velikou sbírkou originálních DVD. Na stará kolena se vrátil ke karetní hře Magic The Gathering. Je ženatý s Lydií Frankou – členkou Pirátské strany a kněžkou chaosu.
-
-Pirátskou stranu chápe jako jedinou skutečně demokratickou politickou platformu, která se pokouší reflektovat realitu třetího tisíciletí. „Technologie, které máme nyní k dispozici, nám mohou úžasně pomáhat a ve finále všem lidem ulehčit život. Nesmí se ovšem stát nástrojem digitální totality“. Jeho největší hodnoty jsou svoboda a vzájemná tolerance.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla non lectus sed nisl molestie malesuada. Maecenas sollicitudin. Duis condimentum augue id magna semper rutrum. Quisque porta. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Nunc dapibus tortor vel mi dapibus sollicitudin. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Nullam eget nisl. Mauris tincidunt sem sed arcu. Aliquam erat volutpat. Mauris metus. Curabitur sagittis hendrerit ante. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Suspendisse nisl. Etiam neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Vestibulum fermentum tortor id mi. Ut tempus purus at lorem.
