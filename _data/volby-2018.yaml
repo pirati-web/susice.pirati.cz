@@ -1,0 +1,29 @@
+- name: ...otevřené informace z radnice
+  desc:
+  url: program/volby-2018/otevrena-radnice
+  img: "unlock"
+
+- name: ...chceme zachovat Sušickou nemocnici
+  desc:
+  url: program/volby-2018/susicka-nemocnice
+  img: "medkit"
+
+- name: ...vzorem v oblasti ekologických řešení
+  desc:
+  url: program/volby-2018/ekologie
+  img: "leaf"
+
+- name: ...budování metropolitní sítě
+  desc:
+  url: program/volby-2018/metropolitni-sit
+  img: "exchange"
+
+- name: ...za změnou územního plánu
+  desc:
+  url: program/volby-2018/uzemni-plan
+  img: "map"
+
+- name: ...a čeká nás další spousty práce
+  desc:
+  url: program/volby-2018/dalsi-obsah
+  img: "users"

@@ -35,6 +35,9 @@ collections:
   projects:
     output: true
     permalink: /pripoj-se/:path/
+  program:
+    output: true
+    permalink: /program/:path/
 
 defaults:   # defaults values for collection scope
   -
@@ -43,6 +46,12 @@ defaults:   # defaults values for collection scope
     values:
       layout: "page"
       rbar: "people, foto"
+  -
+    scope:
+      path: "_program"
+    values:
+      layout: "page"
+      rbar: "people"
   -
     scope:
       path: "_teams"

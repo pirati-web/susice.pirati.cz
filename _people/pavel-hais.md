@@ -6,7 +6,7 @@ category:                 # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga
 img: people/ppp.jpg # 165 x 220
-description: ředitel společnosti
+description: volební lídr a člen sdružení
 mail:
 - 
 mob: +420 731 125 027

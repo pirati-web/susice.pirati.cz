@@ -6,7 +6,7 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga
 img: people/ppp.jpg # 165 x 220
-description: síťový specialista a správce sítí
+description: člen sdružení
 mail:
 - 
 mob: +420 737 812 234
@@ -19,4 +19,9 @@ ordrp: 3
 ordga: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla non lectus sed nisl molestie malesuada. Maecenas sollicitudin. Duis condimentum augue id magna semper rutrum. Quisque porta. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Nunc dapibus tortor vel mi dapibus sollicitudin. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Nullam eget nisl. Mauris tincidunt sem sed arcu. Aliquam erat volutpat. Mauris metus. Curabitur sagittis hendrerit ante. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Suspendisse nisl. Etiam neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Vestibulum fermentum tortor id mi. Ut tempus purus at lorem.
+Václav Černý se narodil 19. května 1979 v Sušici, je šťastně ženatý a má dva syny.
+
+Vystudoval obor kuchař-číšník v učňovském středisku na Kašperských Horách, kde následně úspěšně dostudoval nástavbové studium s maturitou. 
+Po velmi krátké působnosti ve vystudovaném oboru a absolvované základní vojenské službě se vrhnul do samostudia IT  a v roce 2005 zahajuje podnikatelskou činnost. V současnosti pracuje ve společnosti UNITED NETWORKS SE, kde má na starosti serverové a monitorovací technologie. 
+
+Mezi jeho hlavní záliby patří rodina, grilování a sport. 

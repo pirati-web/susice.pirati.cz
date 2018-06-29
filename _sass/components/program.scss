@@ -1,0 +1,52 @@
+#program {
+  .logo {
+    float: left;
+    width: 250px;
+  }
+
+  .claim {
+    float: right;
+    width: 150px;
+    margin-bottom: 1rem;
+  }
+
+  .separator {
+    clear: both;
+    height: 8px;
+    background: #000;
+    margin: 2rem 0;
+  }
+
+  .content {
+    margin: 0 5rem;
+  }
+
+  h2 {
+    margin-top: 2rem;
+  }
+
+  .offer {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3rem;
+
+    .big {
+      font-size: 4rem;
+      line-height: 1;
+      margin-bottom: 2rem;
+    }
+  }
+
+  .foot {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+  }
+
+  .fa {
+    font-size: 7rem;
+  }
+}
+

@@ -6,7 +6,7 @@ category:                       # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga
 img: people/ppp.jpg # 165 x 220
-description: finanční ředitel
+description: člen sdružení
 mail:
 - 
 mob: +420 603 415 378
@@ -19,4 +19,11 @@ ordrp: 2
 ordga: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla non lectus sed nisl molestie malesuada. Maecenas sollicitudin. Duis condimentum augue id magna semper rutrum. Quisque porta. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Nunc dapibus tortor vel mi dapibus sollicitudin. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Nullam eget nisl. Mauris tincidunt sem sed arcu. Aliquam erat volutpat. Mauris metus. Curabitur sagittis hendrerit ante. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Suspendisse nisl. Etiam neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Vestibulum fermentum tortor id mi. Ut tempus purus at lorem.
+
+Narodil jsem se v Sušici na vánoce roku 1981. V Sušici jsem navštěvoval základní školu na Husovo náměstí a po přestěhování pak ZŠ Komenského. Na střední školu jsem odešel do Klatov a v roce 2001 odmaturoval na Obchodní akademii. Poté jsem pokračoval pětiletým kombinovaným studiem na ČZU, Provozně ekonomické fakultě.
+
+Mým prvním zaměstnáním byla pozice na obchodním oddělení v dnes již zaniklém podniku SOLO Sirkárna a.s., kde jsem měl zpočátku na starost tuzemský trh a poté zahraniční zákazníky.
+Zhruba v roce 2004 jsme se s kamarády rozhodli proniknout do tajů internetu a WIFI sítí. Od té doby se mnohé změnilo, ale z koníčku a zábavy se stala práce, která mě i po letech naplňuje.
+Ve společnosti United Networks SE mám na starosti provoz a finance. 
+
+Co mě baví a naplňuje? Rodina, sport, muzika a cestování.

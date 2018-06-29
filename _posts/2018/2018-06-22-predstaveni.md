@@ -4,12 +4,12 @@ category:     blog
 tags:         
 layout:       post
 title:        "Vznik Sušických Pirátů" 
-image:        petrin.jpg
+image:        pirati_susice_logo_small.png
 author:       Pavel Hais
 ---
 
-### Proč jsme se rozholi pro Piráty v Sušici?
+### Proč jsme se nechali připlout piráty do Sušice?
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla non lectus sed nisl molestie malesuada. Maecenas sollicitudin. Duis condimentum augue id magna semper rutrum. Quisque porta. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Nunc dapibus tortor vel mi dapibus sollicitudin. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Nullam eget nisl. Mauris tincidunt sem sed arcu. Aliquam erat volutpat. Mauris metus. Curabitur sagittis hendrerit ante. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Suspendisse nisl. Etiam neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Vestibulum fermentum tortor id mi. Ut tempus purus at lorem.
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla non lectus sed nisl molestie malesuada. Maecenas sollicitudin. Duis condimentum augue id magna semper rutrum. Quisque porta. Nullam lectus justo, vulputate eget mollis sed, tempor sed magna. Nunc dapibus tortor vel mi dapibus sollicitudin. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Nullam eget nisl. Mauris tincidunt sem sed arcu. Aliquam erat volutpat. Mauris metus. Curabitur sagittis hendrerit ante. Nullam sapien sem, ornare ac, nonummy non, lobortis a enim. Suspendisse nisl. Etiam neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Vestibulum fermentum tortor id mi. Ut tempus purus at lorem.
+Neutěšená situace v sušické komunální politice nás donutila abychom začali být politicky aktivní. Máme určitou vizi a směr,  jak zajistit lepší život
+v našem krásném městě a touto cestou se s vámi spoluobčany chceme podělit a postupně s vámi také sdílet jasné kroky, které povedou k otevřené komunikaci s transparentním rozhodováním. Je pro nás důležité, aby každý občan měl možnost informaci získat a na tomto základě s ní dále nakládat. Přejeme si, aby veřejný prostor plně sloužil nám spoluobčanům a měli bychom na sebe převzít politickou odpovědnost, protože pouze kritikou stávajících politiků ničeho nedosáhneme.
+ 
