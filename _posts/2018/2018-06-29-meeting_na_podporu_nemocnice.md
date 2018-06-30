@@ -3,7 +3,7 @@ date:         2018-06-25
 category:     blog
 tags:         
 layout:       post
-title:        "Meeting na podprou nemocnice Sušice" 
+title:        "Meeting na podporu nemocnice Sušice" 
 image:        radnice.png
 author:       Pavel Hais
 ---
