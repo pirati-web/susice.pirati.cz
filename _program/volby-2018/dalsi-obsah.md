@@ -11,7 +11,7 @@ order: 1
 
 ## *Zprůhledníme financování*
 
-### Všechny smlouvy obce umístíme na intenret.
+### Všechny smlouvy obce umístíme na internet.
 Podle studií se až 25 % z veřejných rozpočtů vynakládá neúčelně, na nadbytečné výdaje a korupci. Všechny obchodní smlouvy uzavřené obcí musí být ještě před uzavřením vystaveny na internetových stránkách obce v plném znění. Obdobně se budou zveřejňovat i smlouvy podniků a institucí vlastněné obcí. Budeme jednat v duchu zákona o registru smluv, i když tento zákon ještě neplatí. Všichni občané si budou moci zkontrolovat, jak jsou smlouvy s obcí sjednány. Pokud budou smlouvy obsahovat informace, které nelze zveřejnit z důvodu ochrany osobních údajů, budou tyto údaje vymazány a smlouva zveřejněna bez nich. Znemožníme vytváření tajných dodatků ke smlouvám. Slovensko zveřejňováním smluv ušetřilo již miliardy korun, měli bychom s tím začít i my.
 
 ### Zavedeme transparentní bankovní účty a transparentní účetnictví obce

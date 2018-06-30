@@ -7,8 +7,4 @@ perex: Smart City pro nás není město nabité nepotřebnými technologiemi z d
 order: 1
 ---
 
-**Umožníme občanům prosazovat právo na kvalitní životní prostředí i ovlivňovat podobu okolí svého domova.**
-
-V minulém období jsme dodrželi slovo a např. v Praze zveřejnili návrhy územního plánu. 
-Návrhy rozvoje plánů, související dokumentaci i současný stav budeme zveřejňovat tak, aby byly přehledné, rychle dostupné a umožňovaly participaci občanů.
-
+pracujeme na tom ....
