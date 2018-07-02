@@ -9,7 +9,7 @@ img: people/ppp.jpg # 165 x 220
 description: člen sdružení
 mail:
 - 
-mob: +420 603 415 378
+mob: 
 profiles:
   github:
   facebook:
