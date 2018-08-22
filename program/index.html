@@ -3,46 +3,134 @@ layout: default
 ---
 <br>
 <div id="program" class="row">
-    <div class="small-12 columns">
-        <img src="{{'/assets/img/brand/logo-susice.png' | prepend: site.baseurl }}" alt="Piráti Sušice" class="logo">
-        <img src="{{'/assets/img/brand/claim.png' | prepend: site.baseurl }}" alt="Piráti Sušice" class="claim">
-        <div class="separator"></div>
-        <div class="content">
-            <h1>VÁŽENÍ SPOLUOBČANÉ,</h1>
-            <p>
-                neutěšená situace v Sušické komunální politice nás přivedla na myšlenku nechat
-                připlout Piráty do Sušice. <br>
-                Chtěli bychom Vám nabídnout alternativu s lidskou tváří
-                a otevřeným přístupem k vedení našeho krásného města.
-            </p>
+    <div class="o-section">
+        <div class="small-12 columns column">
+            <div class="content">
+                <h3 class="o-section__heading t-h2-super">Komunální volby 2018</h3>
 
-            <div class="offer">
-                <div>CO VÁM CHCEME NABÍDNOUT</div>
-            </div>
-
-
-            {% for item in site.data.volby-2018 %}
-
-            {% assign loopindex = forloop.index | modulo: 3 %}
-            {% if loopindex == 1 %}
-            <div class=row>
-                {% endif %}
-                <div class="medium-4 columns">
-                    <div class="text-center">
-                        <i class="fa fa-{{ item.img }}"></i>
+                <div class="">
+                    <div class="c-content-block c-emphasized-text">
+                        <blockquote class="c-blockquote c-blockquote--wicon">
+                            <p>Vážení spoluobčané,</p>
+                            <p>
+                                veřejný zájem musí převládnout nad korupčními praktikami a klientelismem. Na ztracenou důvěru v politiku nabízíme lék. A tím je průhledné hospodaření, rozhodování za účasti občanů a jasné závazky. Díky tomu, že rozumíme novým technologiím je dokážeme využít k usnadnění života, ke komunikaci s úřady z domova a k věrohodnější demokratické správě města.
+                            </p>
+                        </blockquote>
                     </div>
-                    <a href="{{ item.url | relative_url }}">
-                        <h2 class="c-program-items__item-title  text-center">{{ item.name }}</h2>
-                    </a>
-                    <p>{{ item.desc }} <a href="{{ item.url | relative_url }}">Pokračování zde...</a><p>
                 </div>
-                {% if loopindex == 0 %}
-                <hr>
+
+
+                <div class="row">
+                    <div class="columns medium-8">
+                        <div class="o-section-header o-section-header--bordered">
+                            <h3 class="o-section__heading t-h2-super">Kandidátní listina</h3>
+                        </div>
+                        <div class="c-program-candidates">
+                            {% assign team = site.people | sort:"ordrp" %}
+                            {% for item in team %}
+
+                            {% if item.url contains 'http' %}
+                            {% assign url = item.url %}
+                            {% else %}
+                            {% assign url = item.url | relative_url %}
+                            {% endif %}
+
+                            <div class="c-program-candidate-badge">
+                                <a class="c-program-candidate-badge__body" href="{{url}}">
+                                    <span class="c-program-candidate-badge__rank"><span>{{item.ordrp}}</span></span>
+                                    <div class="c-program-candidate-badge__avatar">
+                                        <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}" class="c-program-candidate-badge__avatar-image">
+                                    </div>
+                                    <div class="c-program-candidate-badge__description">
+                                        <h4 class="c-program-candidate-badge__name">
+                                            <span class="c-headline-anchor"><span class="academic-title-name">{{item.fullname}}</span></span>
+                                        </h4>
+                                        <strong class="c-program-candidate-badge__profession">
+                                            {{item.description}}
+                                        </strong>
+                                    </div>
+                                </a>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="columns medium-4">
+                        <div class="o-section-header o-section-header--bordered">
+                            <h3 class="o-section__heading t-h2-super">Program</h3>
+                        </div>
+                        <div class="c-program-items">
+
+                            <div class="c-program-items__item">
+                                <div class="c-program-items__item-wrap c-tile c-tile--fill">
+                                    <div class="c-program-items__item-inner c-tile__body">
+                                        <a href="/program/volby-2018/program/#1-průhledné-hospodaření-města">
+                                            <h3 class="c-program-items__item-title c-headline-anchor t-h4">1. Průhledné hospodaření města</h3>
+                                            <p>Chceme Vám otevřít cestu k informacím a veřejné kontrole hospodaření města.</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="c-program-items__item">
+                                <div class="c-program-items__item-wrap c-tile c-tile--fill">
+                                    <div class="c-program-items__item-inner c-tile__body">
+                                        <a href="/program/volby-2018/program/#2-zapojíme-občany-do-rozhodování">
+                                            <h3 class="c-program-items__item-title c-headline-anchor t-h4">2. Zapojíme občany do rozhodování</h3>
+                                            <!--<p>Chceme Vás zapojit do rozhodování o věcech, které Vás zajímají.</p>-->
+                                            <p>Občané našeho města mají právo rozhodovat o věcech, které je zajímají.</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="c-program-items__item">
+                                <div class="c-program-items__item-wrap c-tile c-tile--fill">
+                                    <div class="c-program-items__item-inner c-tile__body">
+                                        <a href="/program/volby-2018/program/#3-osobní-přístup-v-sociálních-službách">
+                                            <h3 class="c-program-items__item-title c-headline-anchor t-h4">3. Osobní přístup v sociálních službách</h3>
+                                            <p>Pro nás jsou klíčové kvalitní a všeobecně dostupné veřejné služby.</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="c-program-items__item">
+                                <div class="c-program-items__item-wrap c-tile c-tile--fill">
+                                    <div class="c-program-items__item-inner c-tile__body">
+                                        <a href="/program/volby-2018/program/#4-vybudování-metropolitní-optické-sítě">
+                                            <h3 class="c-program-items__item-title c-headline-anchor t-h4">4. Vybudování metropolitní optické sítě</h3>
+                                            <p>V dnešní době to považujeme za samozřejmost, která u nás bohužel není dostupná.</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="c-program-items__item">
+                                <div class="c-program-items__item-wrap c-tile c-tile--fill">
+                                    <div class="c-program-items__item-inner c-tile__body">
+                                        <a href="/program/volby-2018/program/#5-nemocnice-sušice">
+                                            <h3 class="c-program-items__item-title c-headline-anchor t-h4">5. Nemocnice Sušice</h3>
+                                            <p>Našim cílem je zajistit potřebný rozsah zdravotní péče v sušické nemocnici.</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="c-program-items__item">
+                                <div class="c-program-items__item-wrap c-tile c-tile--fill">
+                                    <div class="c-program-items__item-inner c-tile__body">
+                                        <a href="/program/volby-2018/program/#6-prosadíme-moderní-technologie">
+                                            <h3 class="c-program-items__item-title c-headline-anchor t-h4">6. Prosadíme moderní technologie</h3>
+                                            <p>Proč dělat věci složitě, když to jde jednoduše!</p>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </div>
-            {% endif %}
-
-            {% endfor %}
-
 
         </div>
     </div>

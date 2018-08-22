@@ -51,7 +51,7 @@ defaults:   # defaults values for collection scope
       path: "_program"
     values:
       layout: "page"
-      rbar: "people"
+      rbar: "people, fb"
   -
     scope:
       path: "_teams"

@@ -17,12 +17,12 @@
     margin: 2rem 0;
   }
 
-  .content {
-    margin: 0 5rem;
-  }
-
   h2 {
     margin-top: 2rem;
+  }
+
+  .o-section {
+    padding: 0 10px;
   }
 
   .offer {
@@ -48,5 +48,169 @@
   .fa {
     font-size: 7rem;
   }
+
+  .t-h2-super {
+    font-family: 'Bebas Neue', Helvetica, Arial, sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 0.005em;
+  }
+
+  .o-section-header--bordered {
+    border-bottom-color: #000;
+  }
+
+  .c-tile.c-tile--fill {
+    background: #F3F3F3;
+  }
+
+  .c-tile__body {
+    padding: 1.25em;
+  }
+
+  .t-h4 {
+    font-weight: bold;
+  }
 }
+
+.c-program-key-point-list {
+  dt:not(:first-of-type)::before {
+    content: "\A";
+    white-space: pre-wrap;
+    display: block;
+    height: 1em;
+  }
+
+  dt, dd {
+    display: inline;
+    margin: 0;
+  }
+}
+
+.o-section-header + .c-program-candidates,
+.o-section-header + .c-program-items {
+  margin-top: 1.5rem;
+}
+
+.c-program-intro {
+  padding: 1.25rem;
+}
+
+.c-program-items {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+  @include breakpoint(medium down) {
+    flex-direction: column;
+  }
+}
+
+.c-program-items__item {
+  width: 100%;
+}
+
+.c-program-items__item-wrap {
+  display: flex;
+  color: $white;
+}
+
+.c-program-items__item-inner {
+  a:not(.button) {
+    color: $black;
+    // color: $white;
+    text-decoration: none;
+  }
+}
+
+.c-program-items__item + .c-program-items__item {
+  margin-top: 1.5rem;
+}
+
+.c-program-candidates {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.c-program-candidate-badge {
+  display: flex; // keep the height uniform
+  width: 100%;
+  margin-bottom: 1.5rem;
+
+}
+
+.c-program-candidate-badge__body {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  background: #F3F3F3;
+  position: relative;
+
+}
+
+.c-program-candidate-badge__description {
+  padding: 1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.c-program-candidate-badge__name {
+  font-size: 2rem;
+  margin-top: auto;
+  margin-bottom: 0;
+  padding-right: 30px; // space for the rank circle
+  color: #000;
+}
+
+.c-program-candidate-badge__profession {
+  color: #000;
+  display: block;
+  font-weight: 300;
+  font-size: 1.1rem;
+  padding: 0.5rem 0;
+}
+
+.c-program-candidate-badge__bio {
+  margin-bottom: 0;
+
+  //@include breakpoint(medium down) {
+  //  display: none;
+  //}
+}
+
+.c-program-candidate-badge__avatar {
+  flex-shrink: 0;
+  padding: 10px;
+  max-width: calc(33.333% - 0.75rem);
+
+  @include breakpoint(medium) {
+    max-width: calc(180px - 0.75rem);
+  }
+}
+
+.c-program-candidate-badge__rank {
+  display: block;
+  position: absolute;
+  top: .5rem;
+  right: .5rem;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  // Compensate for the font misalignment.
+  line-height: 31px;
+  text-align: center;
+  color: $black;
+  border: 2px $black solid;
+  font-size: 1.8rem;
+
+  span {
+    line-height: 1.4;
+  }
+}
+
+
 
