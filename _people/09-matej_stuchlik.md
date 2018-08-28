@@ -15,8 +15,8 @@ profiles:
   facebook:
   twitter:
   flickr:
-ordrp: 8
-ordga: 8
+ordrp: 9
+ordga: 9
 ---
 Narodil jsem se v Praze 6, jsem svobodný a bezdětný. Vystudoval jsem obor Automechanik/autoelektrikář na Středním odborném učilišti v Sušici. Po dokončení školy jsem začal pracovat jako osvětlovací technik u pražské firmy, se kterou jsem spolupracoval 2 roky. Poté jsem pracoval jako rigger a stavěl festivalové konstrukce po ČR i v zahraničí. V 21 letech jsem vyrazil na Nový Zéland, kde jsem strávil rok prací a cestováním. Vystřídal jsem mnoho prací v tuzemsku i v zahraničí. V současné době pracuji jako ředitel společnosti Lochmann Industries s.r.o. Mezi mé záliby patří extrémní sporty, cestování, hudba a přátelé.
 
