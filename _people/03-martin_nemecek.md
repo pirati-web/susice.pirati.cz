@@ -6,7 +6,7 @@ category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - rp
 - ga
 img: people/03-martin_nemecek_350px.png
-description: provozní technik, 39 let
+description: provozní ředitel, 39 let
 mail:
 - 
 mob:
