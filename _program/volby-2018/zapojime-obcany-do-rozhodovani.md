@@ -11,3 +11,4 @@ order: 1
 - Připomínkového procesu se budou moci zúčastnit i občané a neziskové organizace. Souhlasíme s tím, aby občané a spolky měli své zastoupení v odborných komisích, které pomáhají připravovat návrhy pro zastupitelstvo nebo kontrolují činnost zastupitelstva a rady.
 - Budeme včas zveřejňovat informace o investičních záměrech a rozvoji města, pro jejichž projednávání budeme organizovat veřejná slyšení, ankety a projednávání investičních a jiných záměrů.
 - Zřídíme elektronický systém, který bude od občanů, neziskového sektorua firem shromažďovat zpětnou vazbu a který umožní veřejnou diskusi.
+- Umožnímě občanům, aby sami mohli rozhodovat o části rozpočtu města pomocí [Participativního rozpočtu](http://www.participativni-rozpocet.cz)

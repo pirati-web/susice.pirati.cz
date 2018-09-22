@@ -19,6 +19,7 @@ order: 1
 - Připomínkového procesu se budou moci zúčastnit i občané a neziskové organizace. Souhlasíme s tím, aby občané a spolky měli své zastoupení v odborných komisích, které pomáhají připravovat návrhy pro zastupitelstvo nebo kontrolují činnost zastupitelstva a rady.
 - Budeme včas zveřejňovat informace o investičních záměrech a rozvoji města, pro jejichž projednávání budeme organizovat veřejná slyšení, ankety a projednávání investičních a jiných záměrů.
 - Zřídíme elektronický systém, který bude od občanů, neziskového sektorua firem shromažďovat zpětnou vazbu a který umožní veřejnou diskusi.
+- Umožnímě občanům, aby sami mohli rozhodovat o části rozpočtu města pomocí [Participativního rozpočtu](http://www.participativni-rozpocet.cz){:target="_blank"}
 
 # **3. Osobní přístup v sociálních službách**
 - Stejně jako pro kvalitní zdravotnípéči nestačí vždy jen pobyt v nemocnici, pro kvalitní sociální péči o seniory nestačí domov důchodců.Při poskytování péče podporujeme osobní přístup. Současný přístup zdravotnických a sociálních zařízení ke klientům je v některých případech neosobní. V řadě případů stav klienta umožňuje, aby nebyl zavřený v nemocnici nebo v domově důchodců, ale není k dispozici podpora pro takovou péči. Proto jsme pro to, aby při plánování zdravotní a sociální péče obec brala v úvahu vedle domovů důchodců pomocné pečovatelské služby a vedle nemocniční péče i domácí ošetřování, kdykoliv mají lidé o takové služby zájem.
